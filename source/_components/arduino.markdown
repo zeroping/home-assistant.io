@@ -55,3 +55,4 @@ Add the user who is used to run Home Assistant to the groups to allow access to 
 $ sudo usermod -a -G dialout,lock $USER
 ```
 
+DUMMY CHANGE
